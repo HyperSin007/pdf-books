@@ -1,0 +1,6 @@
+<!-- This is a placeholder for the default book cover image -->
+<!-- In production, you would replace this with an actual image file -->
+<svg width="200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="300" fill="#E5E7EB"/>
+  <text x="100" y="150" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="14">No Cover</text>
+</svg>
